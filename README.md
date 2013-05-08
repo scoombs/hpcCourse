@@ -1,4 +1,4 @@
 hpcCourse
 =========
 
-This is my first edit of the readme
+This is my second edit of the readme
